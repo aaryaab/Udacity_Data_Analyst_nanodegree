@@ -1,0 +1,1 @@
+Here I have analyszed the populatrity of western movies over the time. And have also analyzed the relation between ratings and budget of the movie
