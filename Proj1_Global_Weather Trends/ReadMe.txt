@@ -1,0 +1,1 @@
+Here I have analysed weather trends of Surat and Bangalore city of India with that of the world.
